@@ -1,0 +1,41 @@
+.header1{
+    padding: 0px 0px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    border-radius: 6px;
+}
+.img1{
+    display: flex;
+    
+    justify-content: center;
+}
+.img2{
+    padding: 125px 0px;
+    display: flex;
+    justify-content: center;
+}
+.header2{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.cocoa{
+    display: flex;
+    justify-content: center;
+}
+.header3{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.header4{
+    padding: 0px 200px;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
